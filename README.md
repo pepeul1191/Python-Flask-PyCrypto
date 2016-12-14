@@ -4,6 +4,10 @@
 
 Microservicio Python Flask + PyCrypto para codificar y decodificar. Hay que considerar que la llave de encriptación debe ser un string de longitud de 16, 24 o 32.
 
+## Test
+
+http://localhost:5000/encode?key=1234567890123456&texto=textodeprueba
+
 ## Instalaciones
 
 Instalación de Flask
